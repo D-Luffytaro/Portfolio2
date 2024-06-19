@@ -8,7 +8,7 @@ export default function About() {
   return (
     <section id="about">
       <h5>Présentation</h5>
-      <h2>À Propos de moi</h2>
+      <h2>À propos de moi</h2>
       <div className="container about__container">
         <div className="about__me">
           <img className="about__me-image" src={ME} alt="me" />
